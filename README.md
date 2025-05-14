@@ -65,18 +65,18 @@
 ## 🚀 Feature Set
 
 ### Customer Features
-- **Sign Up & Login** (JWT authentication)  
-- **Search** By date, time, party size, and location (city/state or ZIP)  
-- **Availability Display** See open slots ±30 minutes, with restaurant name, cuisine, price tier, ratings, and today’s booking count  
-- **Book & Cancel** tables with email/SMS confirmation  
+- **Sign Up & Login**: (JWT authentication)  
+- **Search**: By date, time, party size, and location (city/state or ZIP)  
+- **Availability Display**: See open slots ±30 minutes, with restaurant name, cuisine, price tier, ratings, and today’s booking count  
+- **Book & Cancel**: tables with email/SMS confirmation  
 - **Reviews**: View reviews per restaurant  
 - **Profile**: view and update personal details  
 
 ### Restaurant Manager Features
 - **Add / Edit Listing**: Name, Address, Contact info, Operating hours, Available booking times, Table sizes  
-- **Add/Update descriptions & photos** ReRestaurant description, photos
-- **Add a new listing** Restaurant profile with basic info Set up initial table configurations  
-- **Login as Restaurant Manager** Secure session via JWT tokens   
+- **Add/Update descriptions & photos**: ReRestaurant description, photos
+- **Add a new listing**: Restaurant profile with basic info Set up initial table configurations  
+- **Login as Restaurant Manager**: Secure session via JWT tokens   
 
 ### Admin Features 
 - **Restaurant Approval**: Approve new listings before they go live
@@ -120,7 +120,7 @@ npm start
 
 - **Project Journal**: [ProjectJournal-202.pdf](Documentation/ProjectJournal-202.pdf)  
 - **XP & Core Values**: [202_XP_CORE_VALUES.pdf](Documentation/202_XP_CORE_VALUES.pdf)  
-- **Burndown Chart & Sprints**: [202Burndown Chart.xlsx](Documentation/202Burndown_Chart.xlsx)  
+- **Burndown Chart & Sprint Sheet**: [202Burndown Chart.xlsx](Documentation/202Burndown_Chart.xlsx)  
 - **UI Wireframes**: [UI_WIREFRAMES.pdf](Documentation/UI_WIREFRAMES.pdf)  
 - **Weekly Work Distribution**: [Weekly_Work_Distribution.pdf](Documentation/Weekly_Work_Distribution.pdf)  
 
